@@ -10,7 +10,7 @@
     <div class="container">
         <h1>Détails de la tâche</h1>
         <a href="/supptache/${tache.id}" style="padding-right: 50px;">Supprimer</a>
-        <a href="/modiftache/${tache.id}">Modifier</a>
+        <%-- <a href="/modiftache/${tache.id}">Modifier</a> --%>
         <table class="table">
             <thead>
             <tr>
